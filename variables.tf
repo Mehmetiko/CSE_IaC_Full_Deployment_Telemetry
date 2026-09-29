@@ -20,7 +20,7 @@ variable "location" {
 
 variable "nickname" {
   type    = string
-  default = "MehmetSoylemez" # Replace this by your trigram, e.g., jdo for "John Doe" in lower case
+  default = "MSO" # Replace this by your trigram, e.g., jdo for "John Doe" in lower case
 }
 
 variable "deploy_vm" {
